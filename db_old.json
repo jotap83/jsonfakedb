@@ -1,0 +1,15 @@
+{
+  "bancas": [
+    { "id": 1, "title": "BIORIO" },
+    { "id": 2, "title": "CESGRANRIO" },
+    { "id": 3, "title": "CESPE" }
+  ],
+  "orgaos": [
+    { "id": 1, "title": "ABIN" },
+    { "id": 2, "title": "ANAC" },
+    { "id": 3, "title": "ANATEL" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
