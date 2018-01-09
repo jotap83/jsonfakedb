@@ -1,19 +1,9 @@
 {
-"grupos":[
-        {
-            "_id": 1, 
-            "nome": "esporte"
-        }, 
-        { 
-            "_id: 2", 
-            "nome": "lugares", 
-        }, 
-        { 
-            "_id: 3", 
-            "nome": "animais"
-        }
+"grupos":[{"_id": 1, "nome": "esporte"},
+          {"_id: 2", "nome": "lugares"}, 
+          {"_id: 3", "nome": "animais"}
   ],
-"fotos":[{"titulo":"Rinoceronte","url":"http://www.infoescola.com/wp-content/uploads/2008/05/rinoceronte-450x337.jpg","descricao":"Rinoceronte que só existe em algum lugar deste universo.","_id":"BspfQ5oeEB3x7Yib"}
-]
-         
+"fotos":[
+   {"titulo":"Rinoceronte","url":"http://www.infoescola.com/wp-content/uploads/2008/05/rinoceronte-450x337.jpg","descricao":"Rinoceronte que só existe em algum lugar deste universo.","_id":"BspfQ5oeEB3x7Yib"}
+ ]     
 }
